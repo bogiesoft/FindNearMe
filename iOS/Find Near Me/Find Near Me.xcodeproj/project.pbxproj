@@ -280,7 +280,7 @@
 				DEVELOPMENT_TEAM = MKNXB2TT9A;
 				INFOPLIST_FILE = "Find Near Me/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.tonyshark.Find-Near-Me";
+				PRODUCT_BUNDLE_IDENTIFIER = net.tonyshark.findnearme;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -292,7 +292,7 @@
 				DEVELOPMENT_TEAM = MKNXB2TT9A;
 				INFOPLIST_FILE = "Find Near Me/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.tonyshark.Find-Near-Me";
+				PRODUCT_BUNDLE_IDENTIFIER = net.tonyshark.findnearme;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
