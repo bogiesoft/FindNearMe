@@ -1,0 +1,23 @@
+PODS:
+  - FSCalendar (2.6.0)
+  - GoogleMaps (2.1.1):
+    - GoogleMaps/Maps (= 2.1.1)
+  - GoogleMaps/Base (2.1.1)
+  - GoogleMaps/Maps (2.1.1):
+    - GoogleMaps/Base
+  - GooglePlaces (2.1.1):
+    - GoogleMaps/Base (= 2.1.1)
+
+DEPENDENCIES:
+  - FSCalendar
+  - GoogleMaps
+  - GooglePlaces
+
+SPEC CHECKSUMS:
+  FSCalendar: c00fa5f4c3ec343ee6f7b804ae19322e9898bb84
+  GoogleMaps: a5b5bbe47734e2443bde781a6aa64e69fdb6d785
+  GooglePlaces: 35636d86e5020cba3856eb988c09a5491de0a65a
+
+PODFILE CHECKSUM: 5f494ab666c9473ec03dbed21de946f401a7caa1
+
+COCOAPODS: 1.2.0.beta.3
